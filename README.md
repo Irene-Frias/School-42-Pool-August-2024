@@ -7,7 +7,7 @@ In addition to C, students also work with technologies such as shell (Linux/Unix
 - Throughout the program, essential soft skills are developed, such as teamwork, autonomous learning, efficient time management and resilience.
 - Passing this bootcamp is a fundamental requirement to be able to access the full course on the programming campus.
 
-## Technology
+## 🛠️ Technology
 📁 **GIT**</br>
 All projects must be uploaded to a git repository to be evaluated.
 
@@ -32,3 +32,6 @@ It is necessary to face situations with emotional intelligence and empathy towar
 
 ## 👩‍💻 Developer
 Irene Frias Ramos
+<br> </br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IreneFrías/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irene15frias@gmail.com)
