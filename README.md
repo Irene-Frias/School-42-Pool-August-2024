@@ -14,11 +14,11 @@ All projects must be uploaded to a git repository to be evaluated.
 💻 **SHELL**</br>
 The first days of the pool, two Shell exercises are carried out to learn the basic commands, in this way, we develop the ability to move around the terminal in a fast and efficient way, create scripts, know the commands Shell, environment variables, file system,...
 
-🧠 **C programming language**</br>
+🧠 **C PROGRAMMING LANGUAGE**</br>
 It is the main programming language with which we are going to work. It is necessary to master control structures, variables, all types of operators, libraries, pointers, arrays, functions,...
 
 ## 💡 Soft-skills
-👨‍🎓 **Self-learning**
+👨‍🎓 **SELF-LEARNING**
 School 42 uses the peer to peer learning methodology. Students share their knowledge, search for resources online or in manuals.
 
 👥 **TEAM-WORK**
