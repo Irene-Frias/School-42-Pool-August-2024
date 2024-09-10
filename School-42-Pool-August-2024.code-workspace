@@ -1,53 +1,37 @@
 {
-	"folders": [
-		{
-			"name": "School-42-Pool-August-2024",
-			"path": "."
-		},
-		{
-			"name": "BSQ",
-			"path": "../../../Downloads/Piscine/Piscine/BSQ"
-		},
-		{
-			"name": "C00",
-			"path": "../../../Downloads/Piscine/Piscine/C00"
-		},
-		{
-			"name": "C01",
-			"path": "../../../Downloads/Piscine/Piscine/C01"
-		},
-		{
-			"name": "C02",
-			"path": "../../../Downloads/Piscine/Piscine/C02"
-		},
-		{
-			"name": "C03",
-			"path": "../../../Downloads/Piscine/Piscine/C03"
-		},
-		{
-			"name": "C04",
-			"path": "../../../Downloads/Piscine/Piscine/C04"
-		},
-		{
-			"name": "Rush00",
-			"path": "../../../Downloads/Piscine/Piscine/Rush00"
-		},
-		{
-			"name": "Rush01",
-			"path": "../../../Downloads/Piscine/Piscine/Rush01"
-		},
-		{
-			"name": "Rush02",
-			"path": "../../../Downloads/Piscine/Piscine/Rush02"
-		},
-		{
-			"name": "Shell00",
-			"path": "../../../Downloads/Piscine/Piscine/Shell00"
-		},
-		{
-			"name": "Shell01",
-			"path": "../../../Downloads/Piscine/Piscine/Shell01"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "../../../Downloads/Piscine/Piscine/BSQ"
+        },
+        {
+            "path": "../../../Downloads/Piscine/Piscine/C00"
+        },
+        {
+            "path": "../../../Downloads/Piscine/Piscine/C01"
+        },
+        {
+            "path": "../../../Downloads/Piscine/Piscine/C02"
+        },
+        {
+            "path": "../../../Downloads/Piscine/Piscine/C03"
+        },
+        {
+            "path": "../../../Downloads/Piscine/Piscine/C04"
+        },
+        {
+            "path": "../../../Downloads/Piscine/Piscine/Rush00"
+        },
+        {
+            "path": "../../../Downloads/Piscine/Piscine/Rush01"
+        },
+        {
+            "path": "../../../Downloads/Piscine/Piscine/Rush02"
+        },
+        {
+            "path": "../../../Downloads/Piscine/Piscine/Shell00"
+        },
+        {
+            "path": "../../../Downloads/Piscine/Piscine/Shell01"
+        }
+    ]
 }
